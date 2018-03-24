@@ -1,6 +1,18 @@
+<<<<<<< HEAD
 VÃ¤lkommen till DAJJÂ´s Historia,
+=======
+DAJJ
+>>>>>>> S1pkey-test1
 
-Va ska denna lilla historia handla om?
+Vi började med att göra ett projekt tillsammans i början av sommaren 2017, vi satte oss sedan ner och startade ett företag i Juli månad.
+Nu är vi igång efter en liten berg och dalbana i början, fast vilka företag är inte detta.
 
+<<<<<<< HEAD
 1. DAJJS Fantasia projekt ;-)
 2.
+=======
+nu har vi valt att leta vidare efter nya marknakder för nya projekt :)
+och här kommer allt börja....
+
+låt en nyra era komma....
+>>>>>>> S1pkey-test1
