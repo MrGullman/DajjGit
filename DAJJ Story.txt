@@ -4,15 +4,15 @@ VÃ¤lkommen till DAJJÂ´s Historia,
 DAJJ
 >>>>>>> S1pkey-test1
 
-Vi började med att göra ett projekt tillsammans i början av sommaren 2017, vi satte oss sedan ner och startade ett företag i Juli månad.
-Nu är vi igång efter en liten berg och dalbana i början, fast vilka företag är inte detta.
+Vi bÃ¶rjade med att gÃ¶ra ett projekt tillsammans i bÃ¶rjan av sommaren 2017, vi satte oss sedan ner och startade ett fÃ¶retag i Juli mÃ¥nad.
+Nu Ã¤r vi igÃ¥ng efter en liten berg och dalbana i bÃ¶rjan, fast vilka fÃ¶retag Ã¤r inte detta.
 
 <<<<<<< HEAD
 1. DAJJS Fantasia projekt ;-)
 2.
 =======
-nu har vi valt att leta vidare efter nya marknakder för nya projekt :)
-och här kommer allt börja....
+nu har vi valt att leta vidare efter nya marknakder fÃ¶r nya projekt :)
+och hÃ¤r kommer allt bÃ¶rja....
 
-låt en nyra era komma....
+lÃ¥t en nyra era komma....
 >>>>>>> S1pkey-test1
